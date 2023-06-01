@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielgrs1&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielgrs1" /> </p>
 
-- 🌱 I’m currently learning **Node.js** and **Swift** on Udemy and Alura
+- 🌱 I’m currently learning **Node.js** and **Swift** on Alura
 
 - 📫 How to reach me **gabriel_guilherme2006@hotmail.com**
 
