@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **gabriel_guilherme2006@hotmail.com**
 
-- 📄 Know about my experiences [https://resume.io/r/BBGSbJMpY](https://resume.io/r/BBGSbJMpY)
+- 📄 Know about my experiences [Resume](https://resume.io/r/qD9FFjnJB)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
