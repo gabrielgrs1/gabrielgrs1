@@ -26,7 +26,11 @@
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="githubactions logo"  />
+  <div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielgrs1.gabrielgrs1&left_color=aquamarine&right_color=aquamarine"  />
 </div>
+</div>
+
 
 ###
 
@@ -61,14 +65,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gabrielgrs1/gabrielgrs1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="right">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gabrielgrs1.gabrielgrs1&left_color=aquamarine&right_color=aquamarine"  />
-</div>
-
-###
