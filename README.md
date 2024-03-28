@@ -37,7 +37,7 @@
 
 <p align="left">
   • 🌱 I’m currently learning <b>Jetpack Compose</b> and <b>C++</b> on Alura<br>
-  • 📫 How to reach me **gabriel_guilherme2006@hotmail.com**<br>
+  • 📫 How to reach me <b>gabriel_guilherme2006@hotmail.com</b><br>
   • 📄 Know about my experiences <a href="https://resume.io/r/qD9FFjnJB" target="_blank">on my resume</a>
 </p>
 
