@@ -13,13 +13,13 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Gabriel and I'm a Android Specialist, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is Gabriel and I'm a Android Specialist, from Brazil living in Portugal</h2>
 
 ###
 
 <p align="left">
   • 🌱 I’m currently learning <b>AOSP Automotive</b> and <b>C++</b><br>
-  • 📫 How to reach me <b>gabriel_guilherme2006@hotmail.com</b><br>
+  • 📫 How to reach me <b>gabrielgrs.it@gmail.com</b><br>
   • 📄 Know about my experiences <a href="https://resume.io/r/qD9FFjnJB" target="_blank">on my resume</a>
 </p>
 
