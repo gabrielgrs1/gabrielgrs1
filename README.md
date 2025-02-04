@@ -20,7 +20,7 @@
 <p align="left">
   • 🌱 I’m currently learning <b>AOSP Automotive</b> and <b>C++</b><br>
   • 📫 How to reach me <b>gabrielgrs.it@gmail.com</b><br>
-  • 📄 Know about my experiences <a href="https://resume.io/r/qD9FFjnJB" target="_blank">on my resume</a>
+  • 📄 Know about my experiences <a href="https://resume.io/r/z00FexXdF" target="_blank">on my resume</a>
 </p>
 
 ###
